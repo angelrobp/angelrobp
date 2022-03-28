@@ -1,4 +1,4 @@
-[![Ángel's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/angelrobp)
+[![Ángel's GitHub Banner](./assets/GitHubCabecera.png)](https://github.com/angelrobp)
 
 [![Visits Badge](https://badges.pufler.dev/visits/angelrobp/angelrobp)](https://github.com/angelrobp)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/angelrobledillo/)
@@ -19,8 +19,6 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
--->
 
 <!--
 ## 📌 Pinned Repositories
