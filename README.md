@@ -1,6 +1,6 @@
 [![Ángel's GitHub Banner](./assets/GitHubCabecera.png)](https://github.com/angelrobp)
 
-[![Visits Badge](https://badges.pufler.dev/visits/angelrobp/angelrobp)](https://github.com/angelrobp)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fangelrobp&countColor=%23dce775)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fangelrobp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel_Robledillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelrobledillo/)
 
 Hey there 👋
@@ -54,7 +54,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-999999?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C#-FA7343?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/Code-CSharp-informational-FA7343?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
