@@ -55,6 +55,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-999999?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/c%23-999999?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
