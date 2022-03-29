@@ -1,8 +1,6 @@
 [![Ángel's GitHub Banner](./assets/GitHubCabecera.png)](https://github.com/angelrobp)
 
 [![Visits Badge](https://badges.pufler.dev/visits/angelrobp/angelrobp)](https://github.com/angelrobp)
-[![LinkedIn Badge](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelrobledillo/)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/angelrobledillo/)
 
 Hey there 👋
