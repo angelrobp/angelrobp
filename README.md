@@ -72,7 +72,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 
 
 </br>
-<summary>More Skills</summary>
+
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
