@@ -51,7 +51,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 <br>
 <br>
 
-## 💻 Skills
+## :computer: Skills
 ###### :fire: Main Languages 
 [![C++](https://img.shields.io/badge/C++-2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/c%23-23239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
@@ -65,11 +65,6 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
-[![Visual Studio](https://img.shields.io/badge/visualstudio-%23092E20.svg?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
-[![PyCharm](https://img.shields.io/badge/pycharm-%23092E20.svg?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
-[![jetBrains](https://img.shields.io/badge/jetbrains-%23092E20.svg?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=101010)]()
-[![3DSMax](https://img.shields.io/badge/3dsmax-%23092E20.svg?style=for-the-badge&logo=3dsmax&logoColor=white&labelColor=101010)]()
-[![autodesk](https://img.shields.io/badge/autodesk-%23092E20.svg?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 ###### :iphone: Mobile
@@ -79,10 +74,14 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 ###### :hammer_and_wrench: More skills
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Visual Studio](https://img.shields.io/badge/visualstudio-6E2CD9?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
+[![PyCharm](https://img.shields.io/badge/pycharm-54bdad?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
+[![JetBrains](https://img.shields.io/badge/jetbrains-9bea67?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=101010)]()
+[![autodesk](https://img.shields.io/badge/autodesk-356ab7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
