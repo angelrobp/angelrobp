@@ -50,8 +50,8 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 <br>
 <br>
 
-## 💼 Skills
-###### Main Languages
+## 💻 Skills
+###### :fire: Main Languages 
 [![C++](https://img.shields.io/badge/C++-2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/c%23-23239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)]()
@@ -66,12 +66,13 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
-###### Mobile
+###### 📱 Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-###### More skills
+###### 🛠 More skills
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
