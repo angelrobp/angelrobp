@@ -70,7 +70,8 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
-
+<details>
+<summary>More Skills</summary>
 </br>
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
@@ -87,8 +88,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 
 
 
-<details>
-<summary>More Skills</summary>
+
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
