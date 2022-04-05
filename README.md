@@ -65,6 +65,7 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![Visual Studio](https://img.shields.io/badge/visualstudio-%23092E20.svg?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 ###### :iphone: Mobile
