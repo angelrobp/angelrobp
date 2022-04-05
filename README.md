@@ -68,6 +68,8 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 [![Visual Studio](https://img.shields.io/badge/visualstudio-%23092E20.svg?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![PyCharm](https://img.shields.io/badge/pycharm-%23092E20.svg?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
 [![jetBrains](https://img.shields.io/badge/jetbrains-%23092E20.svg?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=101010)]()
+[![3DSMax](https://img.shields.io/badge/3dsmax-%23092E20.svg?style=for-the-badge&logo=3dsmax&logoColor=white&labelColor=101010)]()
+[![autodesk](https://img.shields.io/badge/autodesk-%23092E20.svg?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 ###### :iphone: Mobile
