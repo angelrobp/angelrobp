@@ -53,8 +53,8 @@ I’m Ángel, a software engineer, who specializes in back-end development. I ma
 
 ## :computer: Skills
 ###### :fire: Main Languages 
-[![C++](https://img.shields.io/badge/C++-2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/c%23-23239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/c%23-004482?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
