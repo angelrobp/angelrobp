@@ -2,7 +2,7 @@
 <img src="./assets/GitHubCabecera.png" width="600">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fangelrobp&countColor=%23dce775)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fangelrobp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel_Robledillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelrobledillo/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel_Robledillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelrobledillo/)-->
 
 Hey there 👋
 
